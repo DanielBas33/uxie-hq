@@ -1,0 +1,6 @@
+interface:
+  display_name: "Grilling"
+  short_description: "Reusable UXIE decision-interview workflow"
+  default_prompt: "Use $grilling to stress-test this decision in structured rounds."
+policy:
+  allow_implicit_invocation: false
